@@ -1,3 +1,10 @@
+/* Question1:
+Given an array of integers, write a function to find the maximum element in the array.
+
+Example:
+Input: [5, 10, 3, 8, 15]
+Output: 15
+*/
 #include<iostream>
 using namespace std;
 
